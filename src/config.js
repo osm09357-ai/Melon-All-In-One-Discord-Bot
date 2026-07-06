@@ -4,11 +4,11 @@
 module.exports = {
 
     BOT_NAME: 'Melon',
-    BOT_TOKEN: 'MTM5MDY2Mzg3NzU0NDUwOTU4MA.GygZd0.uFaM4y32MfuyhMyxi5mhIlRWQQYkxYfQe_04qE',
-    CLIENT_ID: '1390663877544509580',
-    OWNER_ID: '1124248109472550993', // owner-only commands
+    BOT_TOKEN: 'MTUyMTYyMzg2MDA0NTE1MjMwNg.GMuHh0.7-EmNLjnx2fjNukvQGHGusyvgjSCjWjT2khmac',
+    CLIENT_ID: '1521623860045152306',
+    OWNER_ID: '1184984383598383144', // owner-only commands
 
-    PREFIX: ',', // default text command prefix
+    PREFIX: '!', // default text command prefix
 
     STATUS: {
         status: 'idle', // online / idle / dnd / invisible
